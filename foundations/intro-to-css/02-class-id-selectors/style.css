@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.impar {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+.mas-legal{
+    font-size: 24px;
+}
+#numero2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#numero4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
